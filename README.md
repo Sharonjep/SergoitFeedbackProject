@@ -28,7 +28,7 @@ An elegant, responsive feedback application for Sergoit View Gardens. Built usin
 
 ---
 
-## 📬 Example Emails
+## Example Emails
 
 -  **User receives**: A "Thank you for your feedback!" confirmation
 -  **Admin receives**: A "New Feedback Submitted" alert with name, message, and timestamp
@@ -73,6 +73,8 @@ This application is deployed at **Sergoit View Gardens** to collect real-time gu
 - ✅ SES is in sandbox — tested with verified emails
 - ✅ Unique IDs (UUID) for all feedback entries
 - ✅ Input validation for name, email, and message
+  ✅ Fully CORS-compliant API for public web usage
+
 
 ---
 
